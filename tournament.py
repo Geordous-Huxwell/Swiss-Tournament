@@ -157,10 +157,6 @@ def swissPairings():
     print("ROUND " + str(round+1))
     print("ROUND " + str(round+1) + " MATCHES")
     print(match_list)
-    # print("ROUND " + str(round+1) + " WINNERS")
-    # print(winners_list)
-    # print("ROUND " + str(round+1) + " LOSERS")
-    # print(losers_list)
 
 
     return match_list
